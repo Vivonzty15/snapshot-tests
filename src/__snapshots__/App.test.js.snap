@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="justify-content-md-center row"
+    >
+      <div
+        className="card"
+        style={
+          Object {
+            "width": "18rem",
+          }
+        }
+      >
+        <div
+          className="card-title h5"
+        >
+          Vivonzty15
+        </div>
+        <img
+          className="card-img"
+          src="https://upload.wikimedia.org/wikipedia/commons/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg"
+        />
+        <p
+          className="card-text"
+        >
+           I love coding and working out at the gym!
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
